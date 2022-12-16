@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Mr. Joseph Lemke",
+      "id": 2
+    },
+    {
+      "name": "Gloria Hintz",
+      "id": 3
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
